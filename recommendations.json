@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25",
+  "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "items": {
+    "우유": [
+      {
+        "title": "서울우유 흰우유 1L",
+        "image": "https://via.placeholder.com/120x120.png?text=TODO",
+        "price": "2,900원",
+        "link": "https://link.coupang.com/a/TODO"
+      }
+    ],
+    "방울토마토": [
+      {
+        "title": "국산 방울토마토 500g",
+        "image": "https://via.placeholder.com/120x120.png?text=TODO",
+        "price": "5,900원",
+        "link": "https://link.coupang.com/a/TODO"
+      }
+    ],
+    "계란": [
+      {
+        "title": "대란 30구",
+        "image": "https://via.placeholder.com/120x120.png?text=TODO",
+        "price": "8,900원",
+        "link": "https://link.coupang.com/a/TODO"
+      }
+    ]
+  }
+}
