@@ -30,15 +30,41 @@ jsDelivr CDN 이 전 세계 edge 에서 캐시. GitHub Pages 불필요.
   "items": {
     "<항목명 완전일치 키>": [
       {
-        "title": "상품 이름",                        // 노출용
-        "image": "https://.../thumb.jpg",            // 썸네일 URL
-        "price": "2,900원",                          // 문자열(단위 포함 자유)
-        "link": "https://link.coupang.com/a/XXX"     // 쿠팡 파트너스 어필리에이트 URL
+        "title": "상품 이름",                        // 쿠팡 링크 태그의 img alt 그대로
+        "image": "https://img5c.coupangcdn.com/...", // 쿠팡 링크 태그의 img src
+        "link": "https://link.coupang.com/a/XXX",    // 쿠팡 링크 태그의 a href
+        "imageWidth": 120,                           // 선택 — 비율 유지용. 쿠팡이 알려주는 값 그대로
+        "imageHeight": 240                           // 선택
       }
     ]
   }
 }
 ```
+
+### 상품 데이터 추출 흐름
+
+쿠팡 파트너스에서 상품 선택 → 링크 태그 코드 예시:
+
+```html
+<a href="https://link.coupang.com/a/hBmkURHmoe"
+   target="_blank"
+   referrerpolicy="unsafe-url">
+  <img src="https://img5c.coupangcdn.com/image/affiliate/banner/XXX@2x.jpg"
+       alt="세타필 모이스춰라이징 로션, 591ml, 1개"
+       width="120" height="240">
+</a>
+```
+
+여기서 네 값만 추출해 JSON 에 입력:
+
+| HTML 속성 | JSON 필드 |
+|---|---|
+| `a href` | `link` |
+| `img src` | `image` |
+| `img alt` | `title` |
+| `img width`/`height` | `imageWidth`/`imageHeight` (선택) |
+
+가격은 변동 심해서 **의도적으로 저장 안 함**. 앱에서도 가격 미노출. 사용자가 쿠팡 사이트에서 최신 가격 확인하도록.
 
 ### 매핑 규칙 (앱 측)
 
@@ -49,9 +75,27 @@ jsDelivr CDN 이 전 세계 edge 에서 캐시. GitHub Pages 불필요.
 ### 운영 규칙
 
 - `notice` 문구는 **공정위 표시광고법·쿠팡 파트너스 정책** 상 필수. 삭제 금지
-- 상품당 2~5개 노출 권장 (너무 많으면 선택 피로)
+- 상품당 2~5개 노출 권장 (너무 많으면 선택 피로, 2열 그리드 UI 라 짝수 권장)
 - 품절·링크 만료 발견 시 즉시 교체 or 제거
 - 자주 사용되는 품목 위주로 유지 (매핑 안 되면 자연스럽게 "추천 없음")
+
+### 앱 측 UI (참고)
+
+```
+상세 화면 (스크롤)
+┌──────────────────────────┐
+│ 품목명 · 메모 · 체크 등     │
+├──────────────────────────┤
+│ ⓘ 쿠팡 파트너스 활동의 ... │ ← notice 밴드
+├──────────────────────────┤
+│ ┌─────┐ ┌─────┐          │
+│ │ img │ │ img │  (광고)   │ ← 2열 그리드 카드
+│ │title│ │title│          │
+│ └─────┘ └─────┘          │
+└──────────────────────────┘
+```
+
+카드 탭 시 `Linking.openURL(link)` 로 쿠팡 앱 (설치되어 있으면) 또는 브라우저가 열림.
 
 ## 로드맵
 
