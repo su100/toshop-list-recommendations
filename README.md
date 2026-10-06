@@ -66,27 +66,47 @@ jsDelivr CDN 이 전 세계 edge 에서 캐시. GitHub Pages 불필요.
 
 가격은 변동 심해서 **의도적으로 저장 안 함**. 앱에서도 가격 미노출. 사용자가 쿠팡 사이트에서 최신 가격 확인하도록.
 
-### 자동 추가 스크립트
+### 자동 추가 — 브라우저 UI (권장)
 
-HTML 복붙 → JSON 자동 반영. 수동 편집 불필요.
+로컬 서버 띄우고 브라우저에서 품목명 + HTML 입력:
 
 ```bash
-# 품목명을 인자, HTML 을 stdin 으로
-node scripts/add-product.mjs "샴푸" <<'EOF'
-<a href="https://link.coupang.com/a/XXX" target="_blank" referrerpolicy="unsafe-url"><img src="https://img...coupangcdn.com/.../YYY@2x.jpg" alt="상품명, 500ml, 1개" width="120" height="240"></a>
-EOF
+node scripts/serve.mjs
+# → http://localhost:3131 접속
 ```
 
-또는 클립보드 → 바로 반영:
+- 상단 폼에 **품목명** + **쿠팡 HTML** 붙여넣기 → "추가 / 교체" 클릭
+- 하단에 현재 등록된 품목·개수 리스트 자동 표시
+- 성공/에러 메시지 즉시 노출
+- `updatedAt` 자동 갱신, 같은 `link` 는 교체 (중복 방지)
+- 다크/라이트 모드 대응
+
+### 자동 추가 — CLI
+
+터미널 선호하면 CLI 도 가능:
+
 ```bash
+# 품목명 인자 + HTML stdin
+node scripts/add-product.mjs "샴푸" <<'EOF'
+<a href="..." ...><img src="..." alt="..." width="120" height="240"></a>
+EOF
+
+# 클립보드 바로:
 pbpaste | node scripts/add-product.mjs "샴푸"
 ```
 
-동작:
-- 품목 키가 없으면 새로 생성, 있으면 배열에 append
-- 같은 `link` 가 이미 있으면 교체 (중복 방지)
-- `updatedAt` 자동 갱신
-- git/CDN purge 는 스크립트가 안 함 — 리뷰 후 수동 commit/push
+### 반영 순서 (UI/CLI 공통)
+
+양쪽 다 JSON 만 수정하고 git 작업은 안 함. 리뷰 후 수동으로:
+
+```bash
+git add . && git commit -m "🛒 상품 추가" && git push
+```
+
+즉시 CDN 반영 필요하면 브라우저로 purge URL 열기:
+```
+https://purge.jsdelivr.net/gh/su100/toshop-list-recommendations@main/recommendations.json
+```
 
 ### 매핑 규칙 (앱 측)
 
