@@ -66,6 +66,28 @@ jsDelivr CDN 이 전 세계 edge 에서 캐시. GitHub Pages 불필요.
 
 가격은 변동 심해서 **의도적으로 저장 안 함**. 앱에서도 가격 미노출. 사용자가 쿠팡 사이트에서 최신 가격 확인하도록.
 
+### 자동 추가 스크립트
+
+HTML 복붙 → JSON 자동 반영. 수동 편집 불필요.
+
+```bash
+# 품목명을 인자, HTML 을 stdin 으로
+node scripts/add-product.mjs "샴푸" <<'EOF'
+<a href="https://link.coupang.com/a/XXX" target="_blank" referrerpolicy="unsafe-url"><img src="https://img...coupangcdn.com/.../YYY@2x.jpg" alt="상품명, 500ml, 1개" width="120" height="240"></a>
+EOF
+```
+
+또는 클립보드 → 바로 반영:
+```bash
+pbpaste | node scripts/add-product.mjs "샴푸"
+```
+
+동작:
+- 품목 키가 없으면 새로 생성, 있으면 배열에 append
+- 같은 `link` 가 이미 있으면 교체 (중복 방지)
+- `updatedAt` 자동 갱신
+- git/CDN purge 는 스크립트가 안 함 — 리뷰 후 수동 commit/push
+
 ### 매핑 규칙 (앱 측)
 
 - 사용자가 입력한 항목명 ↔ `items` 의 키 **완전 일치** 비교
