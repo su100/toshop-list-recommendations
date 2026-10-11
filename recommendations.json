@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-11",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
     "로션": [
@@ -35,6 +35,40 @@
         "title": "흙대파, 1kg, 1개",
         "image": "https://static.coupangcdn.com/image/affiliate/banner/6d62ee5b32f0d52c5fd9e7ad50b6956e@2x.jpg",
         "link": "https://link.coupang.com/a/hBmO61d8vc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "계란": [
+      {
+        "title": "곰곰 무항생제 신선한 특란, 30구, 1개",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/43d04c83081e73da055676ae5fd46e4c@2x.jpg",
+        "link": "https://link.coupang.com/a/hKYI88mwbk",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "곰곰 무항생제 신선한 대란, 30구, 1개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/dd7ad52b61839a7de694cb3a84e4b363@2x.jpg",
+        "link": "https://link.coupang.com/a/hKYTAfOHsq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "깻잎": [
+      {
+        "title": "GAP인증 밀양 깻잎, 30g, 1팩",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/14ba0baae8f41e5dc2ada87243c8db7c@2x.jpg",
+        "link": "https://link.coupang.com/a/hKY1Otg3yu",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "감자": [
+      {
+        "title": "국내산 햇 감자, 500g, 1개",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/578d0e01aa4255e001b6448e45b82caa@2x.jpg",
+        "link": "https://link.coupang.com/a/hKY57scQj6",
         "imageWidth": 120,
         "imageHeight": 240
       }
