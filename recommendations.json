@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-31",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
     "로션": [
@@ -8,6 +8,20 @@
         "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
         "image": "https://img5c.coupangcdn.com/image/affiliate/banner/3433500b2cd816f1ac215c9e9cf1488d@2x.jpg",
         "link": "https://link.coupang.com/a/hBmkURHmoe",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "피지오겔 데일리 모이스쳐 테라피 페이셜 로션, 200ml, 2개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/e995318fcfc8914a0eb95dba294b78c3@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBTQv9zhc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "달바 비타 토닝 세럼 로션, 100ml, 2개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/b4df8e7d884b6d98cd16cdef5c31450c@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBT3EiELs",
         "imageWidth": 120,
         "imageHeight": 240
       }
@@ -37,6 +51,20 @@
         "link": "https://link.coupang.com/a/hBmO61d8vc",
         "imageWidth": 120,
         "imageHeight": 240
+      },
+      {
+        "title": "국내산 손질대파 1kg 2kg, 깐대파 1kg, 1개",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/6eb64480a6ab82cf068029bf56086523@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBSczS44G",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "냉동GO 대파 (냉동), 3개, 1kg",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/1b01a6d2d6b5d4f332352925ffcb164b@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBSpCrUM8",
+        "imageWidth": 120,
+        "imageHeight": 240
       }
     ],
     "계란": [
@@ -53,6 +81,20 @@
         "link": "https://link.coupang.com/a/hKYTAfOHsq",
         "imageWidth": 120,
         "imageHeight": 240
+      },
+      {
+        "title": "포프리 무항생제 식물성 곡물사료 급이 동물 복지 계란, 10구, 3개",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/e84bd67c75ed83f2d70e65e1b4e77db3@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBSCxChIy",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "신선 대란 1560g, 30구, 1개",
+        "image": "https://image6.coupangcdn.com/image/affiliate/banner/8a8191437efef909fae9e425273c7fb1@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBSOsf4BE",
+        "imageWidth": 120,
+        "imageHeight": 240
       }
     ],
     "깻잎": [
@@ -62,6 +104,20 @@
         "link": "https://link.coupang.com/a/hKY1Otg3yu",
         "imageWidth": 120,
         "imageHeight": 240
+      },
+      {
+        "title": "GAP인증 밀양 깻잎, 30g, 1팩",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/14ba0baae8f41e5dc2ada87243c8db7c@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBS13Aj3k",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 깻잎, 60g, 1팩",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/eca7ce0b3b20c3afd19a92ba82d33edc@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBTezVeNM",
+        "imageWidth": 120,
+        "imageHeight": 240
       }
     ],
     "감자": [
@@ -69,6 +125,285 @@
         "title": "국내산 햇 감자, 500g, 1개",
         "image": "https://image9.coupangcdn.com/image/affiliate/banner/578d0e01aa4255e001b6448e45b82caa@2x.jpg",
         "link": "https://link.coupang.com/a/hKY57scQj6",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "26년 수확 국내산 수미감자 (왕왕 사이즈), 1박스, 10kg",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/af0e1789a99bfbec305ad507bb8de811@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBTrLNjm8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "맛통령 국내산 햇감자, {\"선택하기\":\"감자 (대) 5kg\"}, 1개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/c83d7b962139d93e6678fc6e7aa00f2d@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBTEEGTf2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "바나나": [
+      {
+        "title": "Dole 바나나 당도보장 안전 에어캡포장 [SHN], 1개, 바나나 3송이 3~3.6kg",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/8a5dccac7b9b02d9107bee37bac3ae41@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBUgHM7ie",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "스미후루 필리핀산 감숙왕 바나나, 1kg 내외, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/87c83b788a87f83735befffea93785bf@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBUsHkNl6",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "당근": [
+      {
+        "title": "서준엄마네 단맛이 강한 아삭아삭 햇 흙당근, 1박스, 흙당근(중)5kg",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/983086c357785c20a9702f7edf991111@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBUFEMYbQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "용이네 세척 신선 수입 당근 2kg 3kg 5kg 10kg 주스용 라페 대용량 업소용, 1개, 10kg(3L)",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/3b7815b8a70d0bf08847feeed7b5fac9@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBURGCr92",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "무": [
+      {
+        "title": "국내산 햇 흙무 맛있는 무 (내외), 1개, 2kg (1-2개)",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/5f400202a5b2507d409749fc78d42980@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBU4FLcUm",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "기찬드림 아삭아삭 햇 무 흙무, 1개, 10kg내외",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/789fe84aca48cce6d4f0b5ccaa6409b8@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBVhTWz5E",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "방울토마토": [
+      {
+        "title": "[스마토스테비아] 과즙팡팡 감출수없는 풍미 스테비아 대추방울 토마토 망고향, 1박스, 2kg(500g 4팩)",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/a8116972bc0323135511e77e1861ad7c@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBVuN25NQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "[한정물량] 초특가 국내산 완숙 토마토, 1박스, 5kg 중소과 (인기추천)",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/a6e4a644e12ec7b75421da6694009e9c@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBVGQFQI0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "새송이": [
+      {
+        "title": "팜n팜 친환경 새송이 버섯, 1박스, 새송이 특 2kg",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/c4422310bd9d9d3c485f246ef5b8ccf5@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBVTRFrwq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 신선한 미니 새송이버섯, 1개, 2kg",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/57619ca9e97e4f344d9946a581407508@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBV6Q5NoO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "쑥갓": [
+      {
+        "title": "국내산 쑥갓, 100g, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/d3c45642a07489d6367c3dbbd0fc356a@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBWjXBZ4m",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 쑥갓, 100g, 2개",
+        "image": "https://image6.coupangcdn.com/image/affiliate/banner/7e3bc5ff2af1d48452a27601a127fd1e@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBWxnNbtQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "우유": [
+      {
+        "title": "동원목장 유기농목초우유 1000ml 3병, 3개, 1L",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/129a43f45db377c66342163e3e9a1ca1@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBWJ0SWUC",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "세브란스에이투 전용목장 단백우유, 180ml, 24개",
+        "image": "https://image13.coupangcdn.com/image/affiliate/banner/5e9f5697f916013f42e75c3e6cd2ca76@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBWV4BTXM",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "콩나물": [
+      {
+        "title": "100% 국산콩 재배 무농약 산소 콩나물, 1박스, 1kg",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/294be16f5d0fdc5e502ac759b8e078de@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBW7RfoLQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "신선한 국내산 산소 콩나물 친환경 무농약, 1박스, 1kg",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/8d4e67e8bc883e35e82b7e5d4f71943f@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBXjHEoeq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "OO9536-01": [
+      {
+        "title": "오클리안경 피치맨 8096-01 55 데일리및 운동용 스포츠안경 룩소티카정품, 1개, SATIN BLACK",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/e29c65fdf939f28ed5a303b8ddca5965@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBXWjXTgr",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "오클리 파라코드 OO9506D 01매트블랙/사파이어프리즘렌즈 선글라스",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/a895985e5dfa94bea5fdf24884a997fb@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBX8O4GE8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "가면": [
+      {
+        "title": "attizone 종이탈 종이가면 동물가면 전통탈 가면 탈, 남자탈",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/8d1f53bcbad7f8d86268aad43b6d06df@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBYlTyaY0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "여신 반가면 파티 할로윈 오페라 베네치아 가면 눈가면 세트, 2개, 블랙1개+실버1개",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/01221284d65c2e58bdebe92f580eda83@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBYzMUwlU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "과자류": [
+      {
+        "title": "다파니 고소하고 바삭한 달콤 쌀과자 대용량, 1개, 1kg",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/4d8375c2d429876143a7006e3900e6d4@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBYM4Zzoq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "다양하게 골라담은 사무실 비스킷 15종세트, 1개",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/e1707e29111cb31c1eab628149ec5a54@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBY5x3p6G",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "군만두 왕만두": [
+      {
+        "title": "스마일유통 맛있는 철판고기왕만두 업소용군만두 중국집군만두, 1개, 1.4kg",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/cd2a4b0e84674c38293827d7bc11ff91@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBZsA3RIW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "비비고 냉동 왕교자 315g (새우왕교자+왕교자+김치왕교자+군만두) 1개씩, 1세트, 1.26kg",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/b5561254fbf6bfe8878b25b43794b8a8@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBZPogVwG",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "귤": [
+      {
+        "title": "[평균12Brix]서귀포 제철 감귤, 1박스, 5kg 대과",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/5ab0aa1751a640d739305362040c036d@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB0chfGLc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "[평균12Brix]서귀포 제철 감귤, 1박스, 5kg 대과",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/5ab0aa1751a640d739305362040c036d@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB0y4EcdU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "나이키 런 베스트 5l iq6691-077": [
+      {
+        "title": "나이키 런 베스트 5L IQ6691-077, 블랙, 1개",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/0804d1e46051b1b0984fa7c21e1bd4cc@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB0WbeGPI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "캄스포츠 에어로라이트 초경량 트레일 러닝 조끼 베스트, CS-AL140BK",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/fc4a3ce6563b51f9ccd264179267ec60@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB1iZ6PQq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "나이키 런 벨트 iq5928077": [
+      {
+        "title": "나이키 슬림 러닝 웨이스트백 4.0, 블랙, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/a837e36c1c8a08f15dd7968700c130f1@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB1Gao70S",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "나이키 슬림 러닝 웨이스트백 4.0, 블랙, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/a837e36c1c8a08f15dd7968700c130f1@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB12XhXEG",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "다이소향수": [
+      {
+        "title": "데일리콤마 모스트 오 드 퍼퓸 - 코튼 화이트 여성향수, 3개, 30ml",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/e1f42a9817d4659e939f884df2b50d7e@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB2pK9Wx2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "데일리콤마 향기미스트 15ml x 20개입 피치 라일락, 20개",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/e691c5cce4d4d5709e888b561b97aa2a@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB2MzrSqO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "단감": [
+      {
+        "title": "[초특가할인] 초고당도 국산 햇 단감, 1박스, 5kg [초초특가]",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/36db5e261a880a5da007429ccbd652c6@2x.jpg",
+        "link": "https://link.coupang.com/a/iiB22E3yMe",
         "imageWidth": 120,
         "imageHeight": 240
       }
