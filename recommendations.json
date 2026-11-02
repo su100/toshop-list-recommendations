@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-02",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
-    "로션": [
-      {
-        "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
-        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/3433500b2cd816f1ac215c9e9cf1488d@2x.jpg",
-        "link": "https://link.coupang.com/a/hBmkURHmoe",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
-      {
-        "title": "피지오겔 데일리 모이스쳐 테라피 페이셜 로션, 200ml, 2개",
-        "image": "https://static.coupangcdn.com/image/affiliate/banner/e995318fcfc8914a0eb95dba294b78c3@2x.jpg",
-        "link": "https://link.coupang.com/a/iiBTQv9zhc",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
-      {
-        "title": "달바 비타 토닝 세럼 로션, 100ml, 2개",
-        "image": "https://image3.coupangcdn.com/image/affiliate/banner/b4df8e7d884b6d98cd16cdef5c31450c@2x.jpg",
-        "link": "https://link.coupang.com/a/iiBT3EiELs",
-        "imageWidth": 120,
-        "imageHeight": 240
-      }
-    ],
-    "세제": [
-      {
-        "title": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 일반용 액체세제 본품, 2.5L, 2개",
-        "image": "https://image10.coupangcdn.com/image/affiliate/banner/ca5ad93bab8a63584880c11dfdb9a7ce@2x.jpg",
-        "link": "https://link.coupang.com/a/hBmMDo6wF2",
-        "imageWidth": 120,
-        "imageHeight": 240
-      }
-    ],
-    "양파": [
-      {
-        "title": "국내산 양파, 1.5kg, 1개",
-        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/7c25e29cca0bf223c8759676eb89b4c3@2x.jpg",
-        "link": "https://link.coupang.com/a/hBmN0AjpHU",
-        "imageWidth": 120,
-        "imageHeight": 240
-      }
-    ],
     "대파": [
-      {
-        "title": "흙대파, 1kg, 1개",
-        "image": "https://static.coupangcdn.com/image/affiliate/banner/6d62ee5b32f0d52c5fd9e7ad50b6956e@2x.jpg",
-        "link": "https://link.coupang.com/a/hBmO61d8vc",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
       {
         "title": "국내산 손질대파 1kg 2kg, 깐대파 1kg, 1개",
         "image": "https://image7.coupangcdn.com/image/affiliate/banner/6eb64480a6ab82cf068029bf56086523@2x.jpg",
@@ -68,20 +20,6 @@
       }
     ],
     "계란": [
-      {
-        "title": "곰곰 무항생제 신선한 특란, 30구, 1개",
-        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/43d04c83081e73da055676ae5fd46e4c@2x.jpg",
-        "link": "https://link.coupang.com/a/hKYI88mwbk",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
-      {
-        "title": "곰곰 무항생제 신선한 대란, 30구, 1개",
-        "image": "https://image5.coupangcdn.com/image/affiliate/banner/dd7ad52b61839a7de694cb3a84e4b363@2x.jpg",
-        "link": "https://link.coupang.com/a/hKYTAfOHsq",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
       {
         "title": "포프리 무항생제 식물성 곡물사료 급이 동물 복지 계란, 10구, 3개",
         "image": "https://img2c.coupangcdn.com/image/affiliate/banner/e84bd67c75ed83f2d70e65e1b4e77db3@2x.jpg",
@@ -100,13 +38,6 @@
     "깻잎": [
       {
         "title": "GAP인증 밀양 깻잎, 30g, 1팩",
-        "image": "https://image15.coupangcdn.com/image/affiliate/banner/14ba0baae8f41e5dc2ada87243c8db7c@2x.jpg",
-        "link": "https://link.coupang.com/a/hKY1Otg3yu",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
-      {
-        "title": "GAP인증 밀양 깻잎, 30g, 1팩",
         "image": "https://image7.coupangcdn.com/image/affiliate/banner/14ba0baae8f41e5dc2ada87243c8db7c@2x.jpg",
         "link": "https://link.coupang.com/a/iiBS13Aj3k",
         "imageWidth": 120,
@@ -122,13 +53,6 @@
     ],
     "감자": [
       {
-        "title": "국내산 햇 감자, 500g, 1개",
-        "image": "https://image9.coupangcdn.com/image/affiliate/banner/578d0e01aa4255e001b6448e45b82caa@2x.jpg",
-        "link": "https://link.coupang.com/a/hKY57scQj6",
-        "imageWidth": 120,
-        "imageHeight": 240
-      },
-      {
         "title": "26년 수확 국내산 수미감자 (왕왕 사이즈), 1박스, 10kg",
         "image": "https://img5a.coupangcdn.com/image/affiliate/banner/af0e1789a99bfbec305ad507bb8de811@2x.jpg",
         "link": "https://link.coupang.com/a/iiBTrLNjm8",
@@ -139,6 +63,22 @@
         "title": "맛통령 국내산 햇감자, {\"선택하기\":\"감자 (대) 5kg\"}, 1개",
         "image": "https://static.coupangcdn.com/image/affiliate/banner/c83d7b962139d93e6678fc6e7aa00f2d@2x.jpg",
         "link": "https://link.coupang.com/a/iiBTEEGTf2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "로션": [
+      {
+        "title": "피지오겔 데일리 모이스쳐 테라피 페이셜 로션, 200ml, 2개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/e995318fcfc8914a0eb95dba294b78c3@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBTQv9zhc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "달바 비타 토닝 세럼 로션, 100ml, 2개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/b4df8e7d884b6d98cd16cdef5c31450c@2x.jpg",
+        "link": "https://link.coupang.com/a/iiBT3EiELs",
         "imageWidth": 120,
         "imageHeight": 240
       }
@@ -404,6 +344,554 @@
         "title": "[초특가할인] 초고당도 국산 햇 단감, 1박스, 5kg [초초특가]",
         "image": "https://image11.coupangcdn.com/image/affiliate/banner/36db5e261a880a5da007429ccbd652c6@2x.jpg",
         "link": "https://link.coupang.com/a/iiB22E3yMe",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "돼지목살": [
+      {
+        "title": "행복미트 돼지 통목살 부드럽고 맛좋은 왕목살 목전지 수욕 찜 국거리용, 1개, 2kg",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/817a3ec93e4e543f1fcfb11e7a7ae372@2x.jpg",
+        "link": "https://link.coupang.com/a/ilO4XSlNaC",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "모아미트 캐나다산 보리먹인 암퇘지 목살 구이용 (냉장), 1kg, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/ebcf6d713dcfabe2d7dc05b10ed8ea2a@2x.jpg",
+        "link": "https://link.coupang.com/a/ilO8Oq4dSm",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "방토": [
+      {
+        "title": "곰곰 달콤한 스테비아 대추방울토마토, 1kg, 1개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/062e814e4ca459650380455889fd89c2@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPbUJr3cd",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "충남오감 세도농협 GAP 인증 대추방울토마토, 1kg, 1박스",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/3469ad998a42d88653d6a0cb93994a72@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPdA3tjLo",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "배추": [
+      {
+        "title": "국내산 배추, 1개입, 1개",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/73a482afa569f0b4c184a0adde2bb9eb@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPfgQ2tdk",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 쌈용 맛배추, 400g, 1개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/0fd6be1ea18372106f0c2edd29d141b2@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPBJMCBa0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "버섯": [
+      {
+        "title": "국내산 미니 양송이버섯, 200g, 1팩",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/c6394fb7439fd6047f2be5a52d44edc1@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPEdcAkma",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "친환경 뿌리가 손질된 새송이버섯, 600g, 1개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/30f83510089493de4af62fe6d7ff303d@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPFdPDnjw",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "부추": [
+      {
+        "title": "국내산 부추, 300g, 1개",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/0725339ab629838b87c0cdcab5378dac@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPHjxKCxw",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 부추, 150g, 1봉",
+        "image": "https://image10.coupangcdn.com/image/affiliate/banner/d45b19f63e75549bf282164bff762c27@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPIkEE4AK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "브로콜리": [
+      {
+        "title": "국내산 브로콜리, 1개입, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/bdff73a3af2c1c25c1d37099034f8ab3@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPJDct1XM",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "실속 브로콜리, 500g, 1개",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/6a8095739b431e0bfa7711a7b84d54ef@2x.jpg",
+        "link": "https://link.coupang.com/a/ilPKesTt1M",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "샌드위치햄": [
+      {
+        "title": "더건강한 샌드위치햄, 90g, 1개",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/60baf19f7675755d59c64672069457b6@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQlRbLHUq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "주부9단 농협목우촌 슬라이스 햄, 100g, 2개",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/01d163ed8cdea4029105c18011b55edf@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQnbpI0HY",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "샐러리": [
+      {
+        "title": "간편한 셀러리 스틱, 150g, 1개",
+        "image": "https://image10.coupangcdn.com/image/affiliate/banner/726e973229af5903dc6fa84e26e5fe3f@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQpovXKJU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "통셀러리, 500g, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/ac48963e8ecb10abdcdbc5b4be537c4e@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQp0lrew0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "선글라스": [
+      {
+        "title": "은시엘 얼굴작아보이는 남녀공용 오버사이즈 UV400 자외선 차단 선글라스 케이스 안경닦이 포함",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/c32e22aa3833ed3d07f1a549a19299ed@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQs0uUsqi",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "순두부": [
+      {
+        "title": "풀무원 특등급 국산콩 순두부, 350g, 1개",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/ae46f2f7fd75abb73afeee12762c8a48@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQVIJXV2i",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "CJ제일제당 고소한 순두부, 350g, 2개입",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/0448adb2ff6696d30be035ad2d96eb3e@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQWr7NyrQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "식빵": [
+      {
+        "title": "얌 탕종 우유식빵, 330g, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/4258a358927ca9784da696fd98373840@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQXV9N5aK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "아워홈 부드러운 토스트식빵, 700g, 1개",
+        "image": "https://image13.coupangcdn.com/image/affiliate/banner/2acdbef3cd34e9c4e71c22721a2cce4e@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQY0B9MR2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "아이폰 18 pro": [
+      {
+        "title": "Apple 아이폰 18 Pro 자급제, 실버, 256GB",
+        "image": "https://image10.coupangcdn.com/image/affiliate/banner/bb1183212de203e8e4827fcd146a200a@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQZ7YxMBw",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "Apple 아이폰 18 Pro 자급제, 글레이셔, 256GB",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/859e7ef86ba3957b61bde0c4f5644af5@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ1FCPRoy",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "양배추": [
+      {
+        "title": "프리미엄 강원 고랭지 양배추, 1.2kg, 1개입, 1개",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/c30911dcb9440ec640e98c7e0a362ff9@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQTe8dhNk",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "연어": [
+      {
+        "title": "비비고 고단백 연어 스테이크 허브 & 페퍼, 1개, 60g",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/8b99920bee2636a259af5736f15e0554@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ3bFOBjw",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "모위 프리미엄 생연어 횟감용 (냉장), 1개, 250g",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/a6b00395e3604d5f4dc864787660e617@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ4yRbdrU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "오뎅": [
+      {
+        "title": "삼호어묵 부산어묵 바른사각, 240g, 1개",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/85af0650a176b30bb5ec1a18325e074a@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ5JGzQfk",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "대림선 부산어묵 마당놀이 10장, 500g, 1개",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/8eebc8a46bf61738d70b2669ac0be26d@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ6vi3Wxg",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "오이": [
+      {
+        "title": "국내산 백오이, 3개입, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/1a6501241afd04931125450ec1a113e5@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQH4hvkWW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "못생겨도 맛있는 백오이, 5개입, 1개, 500g",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/d7bc27545abb8ba6ca3dc5490fa8ec87@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQJF4nq9c",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "왕만두": [
+      {
+        "title": "비비고 꽉찬 왕만두 (냉동), 1.05kg, 1개",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/39af809e33b40eddc60302c7ebae8a52@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ9CJrxIa",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "비비고 꽉찬 김치왕만두 (냉동), 1.05kg, 1개",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/55c2b2fed1b881397d4b999b4e689c58@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQ8i2L05Q",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "요거트": [
+      {
+        "title": "매일바이오 무가당 플레인, 450g, 2개",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/b94f503523d2ed7394f19f527206cc2d@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRdUYJveS",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "매일바이오 그릭요거트 무가당 플레인, 400g, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/819094e4986f90f30f9ea75a7159d806@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRcotJbpc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "참기름": [
+      {
+        "title": "오뚜기옛날 참기름, 500ml, 1개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/6ca9455a7d75fa5eecccd9d8e81c4476@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQEak4RyK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "백설 고소함 가득 참기름, 320ml, 1개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/d5655bd529a3364e29f12445b3ce6a84@2x.jpg",
+        "link": "https://link.coupang.com/a/ilQFimPGIm",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "킨조젤리": [
+      {
+        "title": "일본 킨조 과일 믹스젤리 300g. 2개, 300g",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/b97d151892f4f1ab3012f42fc7694469@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRf4LtKea",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "킨조젤리, 5개, 76g",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/2c1d51dde416c9ba01ec209c058183a1@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRhY8Mboi",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "가루쿡": [
+      {
+        "title": "크라시에 해피 키친 햄버거 가루쿡 만들기 세트, 단품, 2개",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/b4becea5b7f720e7f9032171d3b33cce@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRjpZvuIm",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "크라시에 타노시이 와플야상 가루쿡 와플 만들기 35g, 트레이 + 스푼 + 가루, 1개",
+        "image": "https://image10.coupangcdn.com/image/affiliate/banner/ed3662090e786328982b4b3c8a2d3fee@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRkf8Sfng",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "고바야시 브리즈케어( 레몬 )": [
+      {
+        "title": "고바야시 깨물어먹는 브레스케어 레몬 민트 25개입, 4개, 1g",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/76030d77bd4934bd6c2f5c2cd5475d02@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRlHbotK8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "고바야시 브레스케어 50알x2개 일본 구취제거제, 2개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/38c49bcac5f7ec0c20926a95a3c28005@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRnlJs8Hs",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "고바야시 브리즈케어( 복숭아 )": [
+      {
+        "title": "고바야시 깨물어먹는 브레스케어 피치 25개입, 2개, 30g",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/58f1205c636ab54ea4f45b806b133ae5@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRoctax0C",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "고바야시 브레스케어 50알x2개 일본 구취제거제, 2개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/38c49bcac5f7ec0c20926a95a3c28005@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRnlJs8Hs",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "곤약젤리": [
+      {
+        "title": "곤약젤리 일본 곤약젤리 일본젤리 곤약젤리 워터젤리 대용량 젤리 얼려먹는 젤리 곤약젤리 복숭아 개별포장 젤리 과일 푸딩 젤리, 2개, 501g",
+        "image": "https://image6.coupangcdn.com/image/affiliate/banner/026247250965d91374b3f27e576ca431@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRqHXnrxI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "더존건강 한끼 곤약젤리 버라이어티 팩 30개입, 4.5kg, 1세트",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/a3562bada79bde9499243698e9fcd2f6@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRpSXCjCK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "글리코 커스타드 미니푸딩": [
+      {
+        "title": "일본 글리코 커스터드맛 푸칭 푸딩 120g 6개입, 1개",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/528042f4ad4791741cad01bbbe808dec@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRsUwnLa0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "글리코 초콧또 풋친 푸딩 커스터드 6개입, 3개, 120g",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/9dac452bd27c6d5685f2f846e615b87d@2x.jpg",
+        "link": "https://link.coupang.com/a/ilRuaHL8JU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "베이킹소다": [
+      {
+        "title": "엄마의선택 베이킹소다, 2kg, 1개",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/d1e580d0f8833642b99fc6265a8b898c@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSCPb4y7M",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "소다스쿨 베이킹소다, 1kg, 1개",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/2a7293014a9954a01fc2fe205b068f1d@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSPfN9DQ4",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "염색도구": [
+      {
+        "title": "벨글로우 셀프염색 도구세트 6종 염색키트 염색보, 1세트, 블랙",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/46cc9120d47d28a0a28838313c51d40a@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSxUlcUg0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "살롱픽 셀프 염색 도구 세트 총 8종, 2세트, 검정색",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/0d657f3290aaf673c24de76d84ca5b25@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSyPlOLT2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "제습제": [
+      {
+        "title": "Sprize 진짜 좋은 제습제 일반형 30p, 900g, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/0095815cf5fcb34e77ab3d11c873a6e2@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSAct3NBI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "탐사 습기제거제, 260g, 10개",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/a29a43693b0eadb8748154d2828daf45@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSATmleJU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "혼다시": [
+      {
+        "title": "혼다시 조미료, 120g, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/6fba217345634fbd67c33bf8ddb255ec@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSRlZDNSu",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "혼다시 조미료, 120g, 3개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/073178db054ecdeffcfc97d50f483b3c@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSTD0l4kS",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "닭가슴살": [
+      {
+        "title": "하림 닭가슴살 (냉장), 1개, 1kg",
+        "image": "https://img4a.coupangcdn.com/image/affiliate/banner/abd7926074fd9297a3b9109d47c012bb@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSuIInyeW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "한끼통살 닭가슴살 볼 5종 x 2개 믹스세트 (냉동), 100g, 1개입, 10개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/eb3704a4a8130cdccc75978c8af6e988@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSwr9W13Q",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "클렌징크림": [
+      {
+        "title": "이니스프리 애플 씨드 클렌징 크림, 150ml, 1개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/a9c3c6ebb499a1adb3738b2554f00274@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSpYTf3im",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "마녀공장 퓨어 앤 딥 클렌징 폼, 160ml, 1개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/3476b7badf1e4f878b19ce2ea23b76d7@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSsPwZYaq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "키보드": [
+      {
+        "title": "지클릭커 오피스프로 사일런스 M RGB 87키 무소음 유선 텐키리스 키보드, Sky City CR1, OPK50, 제조사축",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/2aead4f8c82a49daa9060dea80e3eb0a@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSkuX57ds",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "앱코 저소음 풀배열 멤브레인 108키 키보드, 블랙, MK108, 제조사축",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/1bc93894573d50608fc7cd243c4075e3@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSlnypWDs",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "토마토퓨레": [
+      {
+        "title": "디벨라 토마토 퓨레, 680g, 1개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/2e193f3c2057a40cd0cae60f965075cd@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSiBm3uai",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "청정원 토마토 퓨레, 570g, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/d5cc1048b4e794a5b7999dc637220d33@2x.jpg",
+        "link": "https://link.coupang.com/a/ilSjcjfTyu",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "물": [
+      {
+        "title": "탐사 샘물, 2L, 24개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/bd47c32fadb2f6205a2af54db6c8932c@2x.jpg",
+        "link": "https://link.coupang.com/a/ilTgOaJUse",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "아쿠아시스 먹는샘물 무라벨, 2L, 12개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/2307bd922e1c845fa046360ef603e990@2x.jpg",
+        "link": "https://link.coupang.com/a/ilTisq9UTk",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "세제": [
+      {
+        "title": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 일반용 액체세제 본품, 2.5L, 2개",
+        "image": "https://image10.coupangcdn.com/image/affiliate/banner/ca5ad93bab8a63584880c11dfdb9a7ce@2x.jpg",
+        "link": "https://link.coupang.com/a/hBmMDo6wF2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "양파": [
+      {
+        "title": "국내산 양파, 1.5kg, 1개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/7c25e29cca0bf223c8759676eb89b4c3@2x.jpg",
+        "link": "https://link.coupang.com/a/hBmN0AjpHU",
         "imageWidth": 120,
         "imageHeight": 240
       }
