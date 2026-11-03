@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
     "대파": [
@@ -892,6 +892,54 @@
         "title": "국내산 양파, 1.5kg, 1개",
         "image": "https://img1c.coupangcdn.com/image/affiliate/banner/7c25e29cca0bf223c8759676eb89b4c3@2x.jpg",
         "link": "https://link.coupang.com/a/hBmN0AjpHU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "휴지": [
+      {
+        "title": "코멧 코지 파우더 도톰한 3겹 화장지 30m, 30롤, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/db682f9d29f765370a7604af5d7e3b3a@2x.jpg",
+        "link": "https://link.coupang.com/a/invWvTnxwi",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "리퀴드 천연펄프 3겹 리퀴드 고급롤화장지, 1개, 30롤, 30m",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/65953fb42a0e60bd928235d2b1b94ce5@2x.jpg",
+        "link": "https://link.coupang.com/a/invXo7Q2Gi",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "무화과": [
+      {
+        "title": "곰곰 영암 무화과, 1kg, 1팩",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/c504103914b166916ad53411bf14f6d2@2x.jpg",
+        "link": "https://link.coupang.com/a/inv0bkkH9g",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "무농약 인증 채상희 농부의 함평 무화과, 500g, 1개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/72a3ab8d7a796391185251b39f28d61c@2x.jpg",
+        "link": "https://link.coupang.com/a/inv0YAfsab",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "반숙란": [
+      {
+        "title": "곰곰 촉촉 반숙란 (냉장), 15구, 1개",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/dc2adb915ce45a9d070fc40cc33f04c6@2x.jpg",
+        "link": "https://link.coupang.com/a/inv2dqhyzQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "곰곰 동물복지 반숙란 (냉장), 6구, 1개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/5e8c71dd24a2eb21dd9c10d253636afa@2x.jpg",
+        "link": "https://link.coupang.com/a/inv3ldvdgy",
         "imageWidth": 120,
         "imageHeight": 240
       }
