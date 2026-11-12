@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-12",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
     "대파": [
@@ -890,8 +890,15 @@
     "양파": [
       {
         "title": "국내산 양파, 1.5kg, 1개",
-        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/7c25e29cca0bf223c8759676eb89b4c3@2x.jpg",
-        "link": "https://link.coupang.com/a/hBmN0AjpHU",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/7c25e29cca0bf223c8759676eb89b4c3@2x.jpg",
+        "link": "https://link.coupang.com/a/iCydjHkR9U",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "한끼 양파(대), 300g, 1개",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/05c792c3e07bd738bccfa5756dede21a@2x.jpg",
+        "link": "https://link.coupang.com/a/iCye66UrlI",
         "imageWidth": 120,
         "imageHeight": 240
       }
@@ -940,6 +947,488 @@
         "title": "곰곰 동물복지 반숙란 (냉장), 6구, 1개",
         "image": "https://image14.coupangcdn.com/image/affiliate/banner/5e8c71dd24a2eb21dd9c10d253636afa@2x.jpg",
         "link": "https://link.coupang.com/a/inv3ldvdgy",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "도브 스크럽": [
+      {
+        "title": "도브 바디 스크럽 트로피컬 코코넛 & 라임, 도브 바디 스크럽 트로피칼 코코넛 라임 425g 1개, 425g, 1개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/52372f968c9320259ab05e8222627a69@2x.jpg",
+        "link": "https://link.coupang.com/a/iCzfxe1Cq4",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "쟁반": [
+      {
+        "title": "코지테이블 제로웨이스트 파스텔 트레이, 아이보리, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/6ff19576a64fc7559078d3ebdcaf2d6f@2x.jpg",
+        "link": "https://link.coupang.com/a/iCzb1yIRB6",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "루메이크 손잡이 사각 쟁반 트레이, 1개, 우드",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/a681a63a0505358cbcc4dec909bf18f2@2x.jpg",
+        "link": "https://link.coupang.com/a/iCzcysumjI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "청양고추": [
+      {
+        "title": "국내산 청양고추, 150g, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/11ea63c750005306ab75fae5ea372d5f@2x.jpg",
+        "link": "https://link.coupang.com/a/iCzaoI9iTc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 청양고추, 60g, 1개",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/33a78ad590299ceb881628566c4a7adc@2x.jpg",
+        "link": "https://link.coupang.com/a/iCzaWkBdJY",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "떡볶이": [
+      {
+        "title": "석관동떡볶이 오리지날맛 (밀떡) (냉동), 520g, 2개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/5408683a00022776e30d011ff80d38bb@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy7n77fK8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "금미옥 쌀떡볶이 (냉동), 440g, 2개",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/2147034fc4f67da99e7a132e7575f624@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy8DiJQgC",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "상추": [
+      {
+        "title": "국내산 적상추, 150g, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/fcd0e801993cfc93adc1ac45ecc5c865@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy4tz684G",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 청상추, 200g, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/6cae4ff806046fea9a0dd321f4b04a1a@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy4Wn6eCO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "소면": [
+      {
+        "title": "오뚜기옛날 국수 소면, 500g, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/30d4b1abecffefc6f88887c739c876cf@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy1Wcp7zE",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "백설 소면, 500g, 1개",
+        "image": "https://img4a.coupangcdn.com/image/affiliate/banner/3fc5652bd01d9d16e80d302e8ed61ded@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy3uD08Wa",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "팽이버섯": [
+      {
+        "title": "친환경 국내산 팽이버섯, 150g, 4개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/e55b10b497d6575347c1930015fbbddb@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyZcweUVM",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "친환경 인증 국내산 골드팽이버섯, 200g, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/f42d4e8be4c82a08f8b6946acea8a4c6@2x.jpg",
+        "link": "https://link.coupang.com/a/iCy0r5QcSW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "호박": [
+      {
+        "title": "국내산 애호박, 1개입, 1개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/26edfdf6e76771245c839b2fe6b5f0da@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyWRgque4",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "국내산 단호박, 1개입, 1개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/cf46ed457fa2b9d7d506882be8c31bc7@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyX9MQsPA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "사과": [
+      {
+        "title": "영주마실 사과 소과 5~6개입, 1개, 1kg",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/7ad02710eceea2e4b29c04847d1a7cc1@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyTDvOQ4y",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "고산지 재배 당도선별 사과, 1.5kg(중과), 1봉",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/5cbceaf51e637f6a56eae21291eaa56f@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyUJr2nbo",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "때비누": [
+      {
+        "title": "무궁화 오곡때비누, 90g, 4개입",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/8a3a14f562b05b83f020e8cc169e12e9@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyRBmVYgC",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "데톨 비누 프레시, 110g, 8개입",
+        "image": "https://img2c.coupangcdn.com/image/affiliate/banner/6c4e26a819d2c3925e01e9190932f901@2x.jpg",
+        "link": "https://link.coupang.com/a/iCySz58aAK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "물티슈": [
+      {
+        "title": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/2553b91a1fbc6ed6e828a163e6674122@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyPEB17sW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "블루나 본 퓨어 저자극 물티슈 캡형, 40g, 100매, 10개",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/007b169158b409b2af3f8d529b8d5826@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyQFGYotE",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "브러쉬세척": [
+      {
+        "title": "아스트라에 메이크업 브러쉬 클렌져, 1개, 500ml",
+        "image": "https://image6.coupangcdn.com/image/affiliate/banner/67fc58360e9432df47f25b5bef7eb82b@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyNeP4Cgm",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "피카소 브러쉬 클렌징 트레이, 1개",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/ad89142850150e38aed676c12fd4e135@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyOsbaFBQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "수면양말": [
+      {
+        "title": "루나인 남성용 발볼넉넉 큰발 줄무늬 수면양말 대형 5종 세트",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/74b3bbebf776edfc631952eb798a8995@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyLieyxCC",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "워더미 보온 파스텔 과일 플라워 임산부 수면 양말 5종 W661, 1세트",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/9d71df095be378e839418a2d7fbdbf7c@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyL6uXxO8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "수세미": [
+      {
+        "title": "스카치브라이트 스펀지 다목적 수세미, 5개입, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/1c2ff34de9f89fa928e7e7aa2e76dc96@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyIQEbSUu",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "마마포레스트 생분해 메쉬 수세미, 3개입, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/4343fa76f058d0bd1bc74601cd0f981d@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyJVzycjA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "여드름패치": [
+      {
+        "title": "마데카메디패치 스팟패치, 1개, 51개입",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/c872aa1cb04417fde3ea02d6ab2228f5@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyHreh0qO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "이지덤 뷰티 스팟패치, 42개입, 1개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/e0dd2dacf638c8e4e01d03cff70c128e@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyHYNelRA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "투명파우치": [
+      {
+        "title": "트립킹 대용량 여행용 파우치 4종 세트",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/e3cee5654f9cc32054b1e1bf42cbe49c@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyDeLUaAu",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "델리 파스텔 PVC 메시 지퍼백 A5, 랜덤 발송, 5개",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/96d012960c422ffebdcaaa9e505b5988@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyFMxujLw",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "풋샴푸": [
+      {
+        "title": "항균 풋샴푸 by 랩신, 1개입, 2개, 410ml",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/710f3340972bce89dba13e54a5463a52@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyBmpgshg",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "온더바디 코튼풋 발을 씻자 풋샴푸 레몬민트향, 1개입, 1개, 510ml",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/7a072a2360f8b779398d1869f43916fa@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyB5kXYVE",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "과일모찌": [
+      {
+        "title": "서녹씨 여수 과일모찌 10조각 딸기 샤인머스캣 키위 귤 커팅, 1박스, 250g",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/9d041789df39e9f1af532b0b393a69bf@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyv3PIBc4",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "삼시세끼연구소 100% 생과일 모찌 꾸덕한 요거트 찹쌀떡 과일모찌 수제, 6개, 70g",
+        "image": "https://image11.coupangcdn.com/image/affiliate/banner/9836caf64a93a07fdbd6ff64ddb10590@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyydN4AEe",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "냉장고탈취제": [
+      {
+        "title": "탐사트리플냉장고탈취제 265 g, 300ml, 2개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/c53bbdb644c370a210745cbe05ac7df5@2x.jpg",
+        "link": "https://link.coupang.com/a/iCysunS5Se",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "생활공식 초강력 냉장고 탈취제 본품, 300g, 2개",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/39358091c61b2cbbfc1730c453e25b12@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyutQEIDI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "돈까스": [
+      {
+        "title": "고메 통등심 돈카츠 (냉동), 450g, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/c74bc25897c122ddc33643f46d2d05b9@2x.jpg",
+        "link": "https://link.coupang.com/a/iCypS0bGTI",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "롯데웰푸드 등심통돈까스 (냉동), 300g, 2개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/f3e0670dff7c49aba9c2c78a213dd781@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyqT7P6fA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "샤워기거치대": [
+      {
+        "title": "OFFO 샤워기 거치대 무타공 강력 접착식 고급 각도조절 핸드샤워 홀더 걸이 일체형, 블랙",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/9fd798350bfbc4886886fc3716078d4d@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyjEBteU0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "생활공식 각도조절 흡착식 샤워기 거치대",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/a80fd51fb18fbb8dae18b8abad5d92b6@2x.jpg",
+        "link": "https://link.coupang.com/a/iCylgo265A",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "신발 밑창": [
+      {
+        "title": "국산 와이 아웃솔 운동화 밑창 수선 교체 고무창",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/a0231a8969fadd38e7555632f6e022e5@2x.jpg",
+        "link": "https://link.coupang.com/a/iCynAL073s",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "애사비": [
+      {
+        "title": "라이블링 애사비 클렌즈 복숭아맛 30개입, 450ml, 1박스",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/9ce3d2be4a0b65342c0f148a0b612bb6@2x.jpg",
+        "link": "https://link.coupang.com/a/iCya3zCW3E",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "티젠 애플사이다 비니거, 150g, 1개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/5c748022d1279940a7154a8c5c170ed3@2x.jpg",
+        "link": "https://link.coupang.com/a/iCycnXnTGe",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "저당팝콘": [
+      {
+        "title": "당연구소 저당 카라멜 팝콘 과자, 6개, 30g",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/d67a6cce3980c277e9760b14dbea82ff@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyf7jSTUy",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "롯데제로 소프트팝 스낵 스위트 카라멜, 3개, 52g",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/6b301c0d480e3732fe387bc4b106cfac@2x.jpg",
+        "link": "https://link.coupang.com/a/iCyhWTStNs",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "젓가락": [
+      {
+        "title": "리빙메이트 304스텐 데일리 무드 젓가락 4종 세트, 제트 블랙, 라이트 실버 그레이, 미드나잇 블루, 콜 차콜, 1세트, 제트 블랙 + 라이트 실버 그레이 + 미드나잇 블루 + 콜 차콜",
+        "image": "https://image9.coupangcdn.com/image/affiliate/banner/4faa55b31097affc9d95e1252b376c24@2x.jpg",
+        "link": "https://link.coupang.com/a/iCx2QfHtFQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "올릭 고급 일회용 대나무 젓가락, 100개입, 2개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/e04f459a64e4fc7c164940685abedd41@2x.jpg",
+        "link": "https://link.coupang.com/a/iCx5VbwD7c",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "커피": [
+      {
+        "title": "카누 마일드 로스트 아메리카노 원두커피믹스, 900mg, 30개입, 1개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/c617b41fcf1d20aa5d945725ec02ca65@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxH6TuJlA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "프렌치카페 카페믹스 마일드, 11.1g, 100개입, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/a08688b9ab75af64dd9a47e94b49db3a@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxKSAPes8",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "까망베르치즈": [
+      {
+        "title": "엠보그 까망베르 치즈, 125g, 1개입, 1개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/87d3d33bbd499212fb4e5c4279a06e67@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxxNslskK",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "상하치즈 까망베르치즈, 100g, 1개입, 1개",
+        "image": "https://image15.coupangcdn.com/image/affiliate/banner/870a36f023cd4635cc34b61ede29398a@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxy3h7SHA",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "두유": [
+      {
+        "title": "매일두유 고단백 플레인 두유, 190ml, 24개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/9d81a50b53be2f7d5e6010be18958747@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxYrJUNtQ",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "베지밀 검은콩 아몬드 앤 호두 두유, 190ml, 32개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/2fb87505927c390dd41e30a51ddd8ab5@2x.jpg",
+        "link": "https://link.coupang.com/a/iCx0ySLEke",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "크리스마스": [
+      {
+        "title": "NEW 산타 슬리퍼, 레드, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/60c5d8190099f2b7b404bcea48677154@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxMzboEeq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "트윙클 크리스마스 미니 트리 풀세트 눈꽃 장식세트, 레드",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/8e525f3a52055f89fe607e2979fc1f1b@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxOl1eyUS",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "어드벤트 캘린더": [
+      {
+        "title": "어드벤트 캘린더 애니멀 나노블럭, 랜덤발송, 1개",
+        "image": "https://img5c.coupangcdn.com/image/affiliate/banner/22c663e25981d17ee9a3a9bd24a674b7@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxSr7iKk0",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "킨더 2026 어드벤트 캘린더 3D 하우스, 2개, 234g",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/89bbe228d9b2276855060c99ef0139ef@2x.jpg",
+        "link": "https://link.coupang.com/a/iCxUo5qT92",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "에디슨 젓가락": [
+      {
+        "title": "에디슨 성인용 스텐 교정젓가락, 블랙, 1개",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/ef16f81293156d3f3234c6329a6f4f4a@2x.jpg",
+        "link": "https://link.coupang.com/a/iCx88oLydU",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "에디슨 스스로 미니 젓가락 2종 세트 곰돌이, MINT, IVORY, 1세트",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/91335689cd300eaaf86ea57e09d7e857@2x.jpg",
+        "link": "https://link.coupang.com/a/iCx9HCa5BY",
         "imageWidth": 120,
         "imageHeight": 240
       }
