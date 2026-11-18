@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-18",
   "notice": "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": {
     "대파": [
@@ -1429,6 +1429,232 @@
         "title": "에디슨 스스로 미니 젓가락 2종 세트 곰돌이, MINT, IVORY, 1세트",
         "image": "https://image4.coupangcdn.com/image/affiliate/banner/91335689cd300eaaf86ea57e09d7e857@2x.jpg",
         "link": "https://link.coupang.com/a/iCx9HCa5BY",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "Oled 맥북 128 2tb": [
+      {
+        "title": "Apple 맥북 프로 14 M5칩 PROLED XDR display, 스페이스 블랙, M5 Max 18코어, 32코어 GPU, 36GB, 2TB, 96W USB-C, 한글",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/85bc355571128492ee44ce6083beed85@2x.jpg",
+        "link": "https://link.coupang.com/a/iKPaU1eWAe",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "Apple 맥북 프로 16 M5칩 PROLED XDR display, 실버, M5 Max 18코어, 40코어 GPU, 48GB, 2TB, 140W USB-C, 한글",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/2cc7f8f266c2a13b97a4dc3d4dab4a31@2x.jpg",
+        "link": "https://link.coupang.com/a/iKOXgFEAmW",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "리코더": [
+      {
+        "title": "컨저러 투코비 저먼식 소프라노 리코더, 아이보리, 1개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/88bb8d282c72429f8f3e5f8003ec2a04@2x.jpg",
+        "link": "https://link.coupang.com/a/iHAXBdnRlc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "야마하 소프라노 리코더 저먼식 YRS-23G, 1개",
+        "image": "https://image7.coupangcdn.com/image/affiliate/banner/59391d81dd00779d30c8a7bdad652ab2@2x.jpg",
+        "link": "https://link.coupang.com/a/iHAYqtljci",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "치즈": [
+      {
+        "title": "동원체다치즈, 18g, 10개입, 1개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/0c208fa301a00c2edaf85d0b132870a2@2x.jpg",
+        "link": "https://link.coupang.com/a/iHA2ZaJZng",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "곰곰 98.3% 모짜렐라 피자치즈, 75g, 4개입, 1개",
+        "image": "https://img4c.coupangcdn.com/image/affiliate/banner/778c9bfe63ce728f5a6668917eca36ac@2x.jpg",
+        "link": "https://link.coupang.com/a/iHA2aNatB6",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "탄산수": [
+      {
+        "title": "싱하 소다워터 탄산수, 325ml, 24개",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/f011d0c07a5c458d9b3945c5633f94ad@2x.jpg",
+        "link": "https://link.coupang.com/a/iHA72vuovc",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "롯데 트레비 라임, 355ml, 24개",
+        "image": "https://img5a.coupangcdn.com/image/affiliate/banner/8134b853ca2763e348e5544f7d4da170@2x.jpg",
+        "link": "https://link.coupang.com/a/iHBbdQen9M",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "피자": [
+      {
+        "title": "풀무원 노엣지피자 코리안BBQ (냉동), 322g, 1개입, 1박스",
+        "image": "https://img2a.coupangcdn.com/image/affiliate/banner/3bd977d66026e1f8b20068ee74d37997@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQf9eDY60",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "리스토란테 모짜렐라 피자 (냉동), 355g, 1개, 1개입",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/9da2e2a2c8ce64db9cfadf97c8c2eacd@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQg7Hnt1w",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "김가루": [
+      {
+        "title": "지도표성경 돌자반, 300g, 1개",
+        "image": "https://static.coupangcdn.com/image/affiliate/banner/9fe1c3a38e822f903fcbe7327bc10f50@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQd1DGsWO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "엔케이 광천 돌 김자반, 1개, 50g",
+        "image": "https://image5.coupangcdn.com/image/affiliate/banner/f9473632eedfc3c5694616156743daae@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQeLx9XjM",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "말랑이": [
+      {
+        "title": "세진 키위 수박 샤베트 서걱 말랑이 슬랑이 크런치 스퀴시, 1개, 키위샤베트",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/abc9a2c1044e4e7cdab8ed6d59e5ffc1@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQbZI3O2e",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "루아르모 피젯토이 버터 말랑이 스퀴시 스트레스볼 팝잇, 옐로우, 2개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/21fed18d09d5239270ceaf2240ac9763@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQcVOGL24",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "스프": [
+      {
+        "title": "오뚜기프레스코 양송이 크림스프, 180g, 2개",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/8b5fbe6d389dbcbf97108b7fafdbfe46@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP9Hnkyku",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "폰타나 그릴드 머쉬룸 크림 수프, 180g, 10개",
+        "image": "https://image14.coupangcdn.com/image/affiliate/banner/5e903387b610a0b74c90a93e2283df4a@2x.jpg",
+        "link": "https://link.coupang.com/a/iKQaN4BXAO",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "어묵": [
+      {
+        "title": "삼호어묵 부산어묵 바른사각, 240g, 1개",
+        "image": "https://image2.coupangcdn.com/image/affiliate/banner/85af0650a176b30bb5ec1a18325e074a@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP7Psw2xg",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "고래사어묵 생선살 듬뿍 사각어묵, 240g, 1개",
+        "image": "https://img3c.coupangcdn.com/image/affiliate/banner/fd29503b616a71ed9f560dbc1b589ff0@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP8KujoGq",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "차슈할 고기": [
+      {
+        "title": "선진포크한돈 뒷사태 수육용 (냉장), 600g, 1개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/f8126bc0295db4d8724e5860ada54b85@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP5L6542u",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "행복미트 통오겹살 수입산 바베큐 수육용, 2kg, 1개",
+        "image": "https://image8.coupangcdn.com/image/affiliate/banner/4dcd4c49fae15297da7c7b94352a7500@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP6Yr0X12",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "치토스 매운거": [
+      {
+        "title": "치토스 매콤달콤한맛, 82g, 6개",
+        "image": "https://image1.coupangcdn.com/image/affiliate/banner/15635af218760a0b43a65b7c4ca5f7d0@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP2V8EeqG",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "치토스 매콤달콤 과자, 82g, 3개",
+        "image": "https://image12.coupangcdn.com/image/affiliate/banner/bde3c209f5a37268f1783c9adadbb88e@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP4feOjee",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "페브리즈": [
+      {
+        "title": "페브리즈 항균플러스 섬유탈취제 깨끗한향 본품, 360ml, 3개",
+        "image": "https://img1a.coupangcdn.com/image/affiliate/banner/8fc21b2ed90a65663214a901317f94d4@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP0utDwZg",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "페브리즈 섬유탈취제 다우니 에이프릴향 본품, 370ml, 1개",
+        "image": "https://image3.coupangcdn.com/image/affiliate/banner/477f07afcb635e9e2510101d03ce331d@2x.jpg",
+        "link": "https://link.coupang.com/a/iKP1ELXjX2",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "포카리 큰병": [
+      {
+        "title": "포카리스웨트, 1.5L, 2개",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/72841302326ed3f95e1deff87e9eca75@2x.jpg",
+        "link": "https://link.coupang.com/a/iKPZiHN6aa",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "해찬들 초고추장 작은 것": [
+      {
+        "title": "해찬들 새콤달콤 초고추장, 300g, 1개",
+        "image": "https://image4.coupangcdn.com/image/affiliate/banner/c7ca8ac67716fd0ef239dbe61ff8eb1d@2x.jpg",
+        "link": "https://link.coupang.com/a/iKPXRNMpeS",
+        "imageWidth": 120,
+        "imageHeight": 240
+      }
+    ],
+    "맥북": [
+      {
+        "title": "Apple 맥북 에어 15 M5칩, 실버, M5 10코어, 10코어 GPU, 16GB, 512GB, 35W 듀얼 USB-C 포트, 한글",
+        "image": "https://img1c.coupangcdn.com/image/affiliate/banner/fc42332920ffa0335d86a4300781b083@2x.jpg",
+        "link": "https://link.coupang.com/a/iKPpL2EJoa",
+        "imageWidth": 120,
+        "imageHeight": 240
+      },
+      {
+        "title": "Apple 맥북 프로 14 M6칩, 스페이스 블랙, M6 12코어, 12코어 GPU, 16GB, 1TB, 70W USB-C, 한글",
+        "image": "https://img3a.coupangcdn.com/image/affiliate/banner/0c1ea4e38ca16fa7764c2979a6575c90@2x.jpg",
+        "link": "https://link.coupang.com/a/iKPqLPZu9s",
         "imageWidth": 120,
         "imageHeight": 240
       }
